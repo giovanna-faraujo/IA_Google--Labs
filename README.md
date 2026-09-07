@@ -47,3 +47,7 @@ Os projetos cobrem as 7 etapas práticas da formação oficial do Google:
 * Integrações com Design (Canva e Gemini): Criação rápida de layouts, banners e peças visuais para comunicação interna.
 * Microsoft PowerPoint: Estruturação visual e padronizada para documentar e apresentar as soluções.
 
+---
+
+<img width="1200" height="1200" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/8cd18399-1aa9-49ed-9bd0-333a74290aec" />
+
