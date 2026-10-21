@@ -19,6 +19,9 @@ Para facilitar a visualização do impacto de cada atividade, cada laboratório 
 * Resultado Real: O que mudou na prática, comparando o cenário antes e depois da solução.
 * Principais Aprendizados: Conclusões práticas para aplicar a mesma solução em outros desafios.
 
+<img width="2000" height="1920" alt="mapa-mental-google-ai" src="https://github.com/user-attachments/assets/aed15157-aaad-466d-ac50-d1d8f6ad44d6" />
+
+
 ---
 
 ## Módulos do Curso e Habilidades Aplicadas
