@@ -1,6 +1,4 @@
-# Laboratórios Práticos
-
-## Certificado Profissional de IA do Google
+# Profissional de IA do Google
 
 Este repositório reúne uma seleção dos laboratórios práticos que desenvolvi durante o Certificado Profissional de Inteligência Artificial do Google, realizado pelo Coursera.
 
