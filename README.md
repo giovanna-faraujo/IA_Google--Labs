@@ -4,6 +4,9 @@ Este repositório reúne uma seleção dos laboratórios práticos que desenvolv
 
 O foco principal é demonstrar a aplicação direta da inteligência artificial na rotina de trabalho: como transformar ferramentas modernas em aliadas para economizar tempo, tomar decisões melhores, organizar informações e resolver problemas reais de negócios.
 
+<img width="1536" height="1024" alt="Mapa Visual dos Laboratórios de IA do Google" src="https://github.com/user-attachments/assets/8cb391e6-36c9-4ac3-a3d6-101fc910cacd" />
+
+
 ---
 
 ## Como os Projetos Estão Documentados
@@ -16,9 +19,6 @@ Para facilitar a visualização do impacto de cada atividade, cada laboratório 
 * Passo a Passo: Como a solução foi construída, do pedido inicial ao ajuste fino.
 * Resultado Real: O que mudou na prática, comparando o cenário antes e depois da solução.
 * Principais Aprendizados: Conclusões práticas para aplicar a mesma solução em outros desafios.
-
-<img width="2000" height="1920" alt="mapa-mental-google-ai" src="https://github.com/user-attachments/assets/aed15157-aaad-466d-ac50-d1d8f6ad44d6" />
-
 
 ---
 
