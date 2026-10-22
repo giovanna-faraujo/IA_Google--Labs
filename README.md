@@ -1,54 +1,70 @@
-# Profissional de IA do Google
+# Profissional de Inteligência Artificial do Google
 
-Este repositório reúne uma seleção dos laboratórios práticos que desenvolvi durante o Certificado Profissional de Inteligência Artificial do Google, realizado pelo Coursera.
+Este repositório reúne laboratórios práticos que desenvolvi durante o **Certificado Profissional de Inteligência Artificial do Google**, realizado pela plataforma Coursera.
 
-O foco principal é demonstrar a aplicação direta da inteligência artificial na rotina de trabalho: como transformar ferramentas modernas em aliadas para economizar tempo, tomar decisões melhores, organizar informações e resolver problemas reais de negócios.
+O objetivo é mostrar como a inteligência artificial pode ser utilizada no dia a dia profissional para **economizar tempo, organizar informações, melhorar processos e ajudar na resolução de problemas**.
 
-<img width="619" height="408" alt="image" src="https://github.com/user-attachments/assets/45978d24-b6c8-477b-8841-2f321276025c" />
+Os projetos apresentam diferentes aplicações da IA, desde a criação de conteúdos e análise de dados até o planejamento de atividades e desenvolvimento de ferramentas.
 
-
----
-
-## Como os Projetos Estão Documentados
-
-Para facilitar a visualização do impacto de cada atividade, cada laboratório conta com uma apresentação visual (.pptx) com uma estrutura direta e acessível:
-
-* Visão Geral: O problema real do dia a dia que o projeto resolve de forma simples.
-* Impacto no Trabalho: Os ganhos práticos em agilidade, produtividade e qualidade de entrega.
-* Ferramentas e Habilidades: O que foi utilizado e as competências demonstradas na prática.
-* Passo a Passo: Como a solução foi construída, do pedido inicial ao ajuste fino.
-* Resultado Real: O que mudou na prática, comparando o cenário antes e depois da solução.
-* Principais Aprendizados: Conclusões práticas para aplicar a mesma solução em outros desafios.
+<img width="619" height="408" alt="Certificado Profissional de IA do Google" src="https://github.com/user-attachments/assets/45978d24-b6c8-477b-8841-2f321276025c" />
 
 ---
 
-## Módulos do Curso e Habilidades Aplicadas
+## Como os projetos estão documentados
 
-Os projetos cobrem as 7 etapas práticas da formação oficial do Google:
+Cada laboratório possui uma apresentação em **PowerPoint (.pptx)**, organizada para explicar de forma simples o problema, a solução desenvolvida e os conhecimentos aplicados.
 
-| Módulo | O que foi trabalhado na prática | Habilidade em destaque |
-| :--- | :--- | :--- |
-| 1. AI Fundamentals | Boas práticas de uso da IA, formulação de pedidos eficientes e uso seguro e responsável da tecnologia. | Comunicação assertiva com IA e ética profissional |
-| 2. AI for Brainstorming and Planning | Criação de planos de ação, cronogramas de projetos e geração rápida de ideias estruturadas. | Planejamento estratégico e visão de projetos |
-| 3. AI for Research and Insights | Leitura e resumo de materiais extensos para encontrar respostas rápidas e confiáveis. | Pesquisa analítica e síntese de informações |
-| 4. AI for Writing and Communicating | Redação e adaptação de e-mails, relatórios e mensagens para públicos de diferentes níveis. | Comunicação corporativa clara e adaptável |
-| 5. AI for Content Creation | Produção de materiais visuais e imagens profissionais sem depender de programas complexos de design. | Criatividade aplicada e autonomia visual |
-| 6. AI for Data Analysis | Organização de planilhas confusas e identificação de padrões e tendências usando linguagem comum. | Análise de dados e interpretação de métricas |
-| 7. AI for App Building | Construção de pequenos assistentes inteligentes e ferramentas sob medida, sem precisar programar. | Resolução de problemas e automação no-code |
+As apresentações seguem esta estrutura:
 
----
-
-## Ferramentas e Tecnologias Utilizadas
-
-* Google Gemini: Assistente central para redação, ideação, planejamento de projetos e criação visual.
-* Google AI Studio: Teste e configuração de instruções avançadas para modelos de inteligência artificial.
-* NotebookLM: Organização de notas, resumos automáticos e consulta detalhada a múltiplos documentos.
-* IA no Google Sheets: Limpeza, classificação e análise de dados em planilhas por meio de pedidos em texto simples.
-* Recursos de Pesquisa Profunda (Deep Research): Investigação completa e cruzamento de informações a partir de várias fontes confiáveis.
-* Integrações com Design (Canva e Gemini): Criação rápida de layouts, banners e peças visuais para comunicação interna.
-* Microsoft PowerPoint: Estruturação visual e padronizada para documentar e apresentar as soluções.
+* **Visão geral:** qual problema ou necessidade motivou a atividade.
+* **Aplicação no trabalho:** como a solução pode ajudar nas atividades profissionais.
+* **Ferramentas utilizadas:** quais tecnologias foram usadas durante o projeto.
+* **Desenvolvimento:** como a atividade foi realizada, desde a ideia inicial até os ajustes.
+* **Resultados:** o que foi produzido e quais melhorias a solução pode oferecer.
+* **Aprendizados:** quais conhecimentos foram adquiridos e como podem ser aplicados em outras situações.
 
 ---
 
-<img width="1200" height="1200" alt="google-ai-professional-certificate" src="https://github.com/user-attachments/assets/8cd18399-1aa9-49ed-9bd0-333a74290aec" />
+## Módulos do curso e conhecimentos aplicados
 
+A formação é composta por sete módulos que apresentam diferentes maneiras de utilizar a inteligência artificial em atividades profissionais.
+
+| Módulo                                   | O que pratiquei                                                                       | Habilidades desenvolvidas                           |
+| ---------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
+| **1. AI Fundamentals**                   | Uso responsável da IA e criação de instruções claras para obter respostas mais úteis. | Comunicação com IA e uso ético da tecnologia.       |
+| **2. AI for Brainstorming and Planning** | Organização de ideias, criação de planos de ação e planejamento de atividades.        | Criatividade, organização e planejamento.           |
+| **3. AI for Research and Insights**      | Pesquisa, análise de documentos e resumo de informações importantes.                  | Pesquisa, análise crítica e síntese de informações. |
+| **4. AI for Writing and Communicating**  | Criação e revisão de e-mails, relatórios e mensagens profissionais.                   | Escrita clara e adaptação da comunicação.           |
+| **5. AI for Content Creation**           | Criação de imagens, apresentações e outros materiais visuais com apoio da IA.         | Criatividade e produção de conteúdo.                |
+| **6. AI for Data Analysis**              | Organização de planilhas, análise de informações e identificação de padrões.          | Análise de dados e interpretação de resultados.     |
+| **7. AI for App Building**               | Desenvolvimento de ferramentas e pequenos aplicativos com auxílio da IA.              | Resolução de problemas e desenvolvimento no-code.   |
+
+---
+
+## Ferramentas e tecnologias utilizadas
+
+Durante os laboratórios, explorei ferramentas de inteligência artificial e produtividade para diferentes atividades.
+
+| Ferramenta               | Aplicação                                                                              |
+| ------------------------ | -------------------------------------------------------------------------------------- |
+| **Google Gemini**        | Criação de textos, organização de ideias, planejamento e produção de conteúdo.         |
+| **Google AI Studio**     | Testes de modelos de IA e ajustes de instruções para obter respostas mais adequadas.   |
+| **NotebookLM**           | Organização de documentos, criação de resumos e consultas a materiais de estudo.       |
+| **Google Sheets com IA** | Organização de planilhas, análise de dados e identificação de informações importantes. |
+| **Deep Research**        | Pesquisas mais detalhadas, reunindo informações de diferentes fontes.                  |
+| **Canva e Gemini**       | Criação de imagens, apresentações e materiais visuais.                                 |
+| **Microsoft PowerPoint** | Documentação e apresentação dos laboratórios realizados.                               |
+
+---
+
+## Principais aprendizados
+
+Ao longo da formação, pude explorar como a inteligência artificial pode apoiar diferentes etapas de uma atividade profissional, desde o planejamento até a apresentação dos resultados.
+
+Também pratiquei a criação de instruções mais claras, a análise crítica das respostas geradas e a escolha de ferramentas adequadas para cada necessidade.
+
+**O principal aprendizado foi entender que a IA pode facilitar o trabalho, mas seus resultados precisam ser avaliados e ajustados de acordo com o contexto e o objetivo de cada atividade.**
+
+---
+
+<img width="1200" height="1200" alt="Certificado Profissional de Inteligência Artificial do Google" src="https://github.com/user-attachments/assets/8cd18399-1aa9-49ed-9bd0-333a74290aec" />
